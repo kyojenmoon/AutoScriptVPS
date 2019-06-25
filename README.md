@@ -23,12 +23,15 @@ Fail2Ban
 Run this command
 
 SSHVPN SCRIPT
+
 wget https://raw.githubusercontent.com/kyojenmoon/VPSauto/master/deb7script.sh && chmod +x deb7script.sh && ./deb7script.sh
 
 OCS PANEL SCRIPT
+
 wget https://raw.githubusercontent.com/kyojenmoon/VPSauto/master/ocsscript.sh && chmod +x ocsscript.sh && ./ocsscript.sh
 
 OCS PANEL mod EZ Connect SCRIPT
+
 wget https://raw.githubusercontent.com/kyojenmoon/VPSauto/master/EZmod.sh && chmod +x EZmod.sh && ./EZmod.sh
 
 If you get error in ocs install this to the serverthat have error
