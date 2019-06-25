@@ -27,11 +27,14 @@ wget https://raw.githubusercontent.com/kyojenmoon/VPSauto/master/deb7script.sh &
 
 OCS PANEL SCRIPT
 wget https://raw.githubusercontent.com/kyojenmoon/VPSauto/master/ocsscript.sh && chmod +x ocsscript.sh && ./ocsscript.sh
+
 OCS PANEL mod EZ Connect SCRIPT
 wget https://raw.githubusercontent.com/kyojenmoon/VPSauto/master/EZmod.sh && chmod +x EZmod.sh && ./EZmod.sh
 
 If you get error in ocs install this to the serverthat have error
+
 apt-get install libxml-parser-perl
 
 Ubuntu 16.04 x64 or Debian 8.10 x64Softether Script
+
 wget https://raw.githubusercontent.com/kyojenmoon/VPSauto/master/SEsetup.sh && chmod +x SEsetup.sh && ./SEsetup.sh
