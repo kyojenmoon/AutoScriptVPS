@@ -5,12 +5,19 @@ Recommended OS: Debian 7 x 64 or 32
 
 Service Include
 Openssh : 22 , 444
+
 Dropbear : 143 , 109
+
 Squid : 8000 , 3128
+
 SSL : 443
+
 Openvpn : 1194 (ip:81/client.ovpn)
+
 Webmin : ip:10000
+
 DDOS Deflate
+
 Fail2Ban
 
 Run this command
