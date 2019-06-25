@@ -41,3 +41,7 @@ apt-get install libxml-parser-perl
 Ubuntu 16.04 x64 or Debian 8.10 x64Softether Script
 
 wget https://raw.githubusercontent.com/kyojenmoon/VPSauto/master/SEsetup.sh && chmod +x SEsetup.sh && ./SEsetup.sh
+
+Debian9 Autoscript SSH/VPN
+
+wget https://raw.githubusercontent.com/kyojenmoon/VPSauto/master/tool/Deb9 && chmod +x Deb9 && ./Deb9
