@@ -1,6 +1,6 @@
 # AutoScriptVPS
 
-Auto SSH VPN Script
+Auto SSH VPN Script ( Ssh/VPN )
 Recommended OS: Debian 7 x 64 or 32
 
 Service Include
